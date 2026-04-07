@@ -1,6 +1,12 @@
+theme = Aizen Dark
+
 language = en
 
+shell-integration-features = ssh-env
+
 desktop-notifications = true
+
+quit-after-last-window-closed = false
 
 auto-update = check
 auto-update-channel = tip
