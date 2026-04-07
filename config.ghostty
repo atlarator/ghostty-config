@@ -1,0 +1,7 @@
+language = en
+
+desktop-notifications = true
+
+auto-update = check
+auto-update-channel = tip
+
